@@ -1,0 +1,27 @@
+********////
+
+This is my first project.
+
+What this code is all about?
+. One can render a pdf. 
+. One can swipe left or right to change pages.
+. One can also click on the buttons to change the pages.
+. One can zoom or pan.
+
+What it doesn't do?
+. One cannot use the swipe gesture to change pages once the page is zoomed.
+. One cannot load a pdf file dynamically, it has to be in the resources.
+
+
+Are there any known bugs?
+. Yes, there is.
+. Once the PDF is zoomed and the next button is clicked the PDF goes out of the frame. There is a need to use a pinch
+gesture to get it back into the frame.
+
+
+
+***** I have modified apple's code on how to render a single pdf page******
+
+
+I am an amatuer developer so if you can see some coding blunders do let me know. Also feel free to modify the file
+and commit the changes here so that all of us can share knowledge and be smart.
